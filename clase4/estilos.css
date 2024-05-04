@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu_superior{
+    background-color: blue;
+    text-align: center;
+    color: black;
+    
+
+}
+.menu_superior a{
+    color: black;
+    text-decoration: none;
+}
+
+.parrafos{
+    background-color: aqua;
+  width: 250px;
+  
+   padding: 1rem;
+   margin-left: 12rem;
+   border: solid 5px black;
+   float: left;
+}
+.parrafo2{
+    background-color: rgb(151, 196, 60);
+    width: 250px;
+    float: right;
+    padding: 1rem;
+    margin-right: 33rem;
+    border: solid 5px black;
+}
+
+.contenido{
+    background-color: olive;
+    padding: 2rem;
+    width: 70%;
+    float: left;
+
+}
+.contenido__imagen{
+    background-color: coral;
+    width: 50%;
+}
+.contenido__imagen img{
+    width: 100%;
+    box-shadow: 5px 5px rgb(56, 50, 50);
+    border-radius: 15px;
+}
+
+.contenido_surgerencias{
+    background-color: chartreuse;
+    border: solid 6px black;
+    line-height: 1.5rem;
+    width: 30%;
+    float: right;
+    padding: 2rem;
+}
+.contenido_surgerencia, img{
+    width: 100%;
+    padding: 1rem;
+}
+.footer{
+    background-color: blue;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 2rem;
+}
+
+ 
+
